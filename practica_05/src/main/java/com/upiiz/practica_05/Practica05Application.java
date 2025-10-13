@@ -1,0 +1,13 @@
+package com.upiiz.practica_05;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Practica05Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Practica05Application.class, args);
+	}
+
+}
